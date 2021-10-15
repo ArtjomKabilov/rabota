@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\kontrollTöö\kontrollTöö\bin\Debug\kontrollTöö.exe.config
+C:\Users\opilane\source\repos\kontrollTöö\kontrollTöö\bin\Debug\kontrollTöö.exe
+C:\Users\opilane\source\repos\kontrollTöö\kontrollTöö\bin\Debug\kontrollTöö.pdb
+C:\Users\opilane\source\repos\kontrollTöö\kontrollTöö\obj\Debug\kontrollTöö.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\kontrollTöö\kontrollTöö\obj\Debug\kontrollTöö.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\kontrollTöö\kontrollTöö\obj\Debug\kontrollTöö.exe
+C:\Users\opilane\source\repos\kontrollTöö\kontrollTöö\obj\Debug\kontrollTöö.pdb
